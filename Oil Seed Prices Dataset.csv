@@ -1,29 +1,4 @@
 Reporting Date,Commodity,Type,Centre,State,Country,Low_Rs_Qtl,High_Rs_Qtl
-21-10-2024,Soybean ,Plant,Indore,Madhya Pradesh,India,4540,4650
-21-10-2024,Soybean ,Mandi,Indore,Madhya Pradesh,India,4345,4485
-21-10-2024,Soybean ,Plant,Nagpur,Maharashtra,India,4560,4635
-21-10-2024,Soybean ,Mandi,Nagpur,Maharashtra,India,4085,4440
-21-10-2024,Soybean ,Mandi,Latur,Maharashtra,India,4350,4500
-21-10-2024,Soybean ,Mandi,Akola,Maharashtra,India,3680,4615
-21-10-2024,Soybean ,Plant,Kota,Rajasthan,India,4570,4615
-21-10-2024,Soybean ,Mandi,Kota,Rajasthan,India,4520,4565
-21-10-2024,Soybean ,Plant,Bundi,Rajasthan,India,4600,4650
-21-10-2024,Soybean ,Mandi,Bundi,Rajasthan,India,4000,4300
-21-10-2024,Soybean ,Plant,Baran,Rajasthan,India,4540,4590
-21-10-2024,Soybean ,Mandi,Baran,Rajasthan,India,4440,4485
-21-10-2024,Soybean ,Plant,Bhawani/Jhalawar,Rajasthan,India,4550,4600
-21-10-2024,Soybean,Mandi,Bhawani/Jhalawar,Rajasthan,India,4500,4550
-21-10-2024,Rapeseed/Mustard,Condition,Jaipur,Rajasthan,India,6560,6590
-21-10-2024,Rapeseed/Mustard,Condition,Alwar,Rajasthan,India,6140,6185
-21-10-2024,Rapeseed/Mustard,Non-Condition,Sri Ganganagar,Rajasthan,India,5475,5840
-21-10-2024,Rapeseed/Mustard,Condition,New Delhi ,Delhi,India,6340,6385
-21-10-2024,Rapeseed/Mustard,Condition,Kota,Rajasthan,India,6440,6485
-21-10-2024,Rapeseed/Mustard,Condition,Agra ,Uttar Pradesh,India,6890,6940
-21-10-2024,Rapeseed/Mustard,Loose,Neewai,Rajasthan,India,5990,6040
-21-10-2024,Rapeseed/Mustard,Condition,Hapur,Uttar Pradesh,India,6290,6335
-21-10-2024,Groundnut,Shell,Rajkot,Gujarat,India,5065,6010
-21-10-2024,Groundnut,Shell,Bikaner,Rajasthan,India,5500,6500
-21-10-2024,Groundnut,Bold,Bikaner,Rajasthan,India,8700,8800
 19-10-2024,Soyabean,Plant,Indore,Madhya Pradesh,India,4550,4660
 19-10-2024,Soyabean,Mandi,Indore,Madhya Pradesh,India,4350,4500
 19-10-2024,Soyabean,Plant,Nagpur,Maharashtra,India,4575,4650
@@ -74,6 +49,31 @@ Reporting Date,Commodity,Type,Centre,State,Country,Low_Rs_Qtl,High_Rs_Qtl
 18-10-2024,Groundnut,Shell,Rajkot,Gujarat,India,5075,6025
 18-10-2024,Groundnut ,Shell,Bikaner,Rajasthan,India,5500,6500
 18-10-2024,Groundnut,Bold,Bikaner,Rajasthan,India,8700,8800
+21-10-2024,Soybean ,Plant,Indore,Madhya Pradesh,India,4540,4650
+21-10-2024,Soybean ,Mandi,Indore,Madhya Pradesh,India,4345,4485
+21-10-2024,Soybean ,Plant,Nagpur,Maharashtra,India,4560,4635
+21-10-2024,Soybean ,Mandi,Nagpur,Maharashtra,India,4085,4440
+21-10-2024,Soybean ,Mandi,Latur,Maharashtra,India,4350,4500
+21-10-2024,Soybean ,Mandi,Akola,Maharashtra,India,3680,4615
+21-10-2024,Soybean ,Plant,Kota,Rajasthan,India,4570,4615
+21-10-2024,Soybean ,Mandi,Kota,Rajasthan,India,4520,4565
+21-10-2024,Soybean ,Plant,Bundi,Rajasthan,India,4600,4650
+21-10-2024,Soybean ,Mandi,Bundi,Rajasthan,India,4000,4300
+21-10-2024,Soybean ,Plant,Baran,Rajasthan,India,4540,4590
+21-10-2024,Soybean ,Mandi,Baran,Rajasthan,India,4440,4485
+21-10-2024,Soybean ,Plant,Bhawani/Jhalawar,Rajasthan,India,4550,4600
+21-10-2024,Soybean,Mandi,Bhawani/Jhalawar,Rajasthan,India,4500,4550
+21-10-2024,Rapeseed/Mustard,Condition,Jaipur,Rajasthan,India,6560,6590
+21-10-2024,Rapeseed/Mustard,Condition,Alwar,Rajasthan,India,6140,6185
+21-10-2024,Rapeseed/Mustard,Non-Condition,Sri Ganganagar,Rajasthan,India,5475,5840
+21-10-2024,Rapeseed/Mustard,Condition,New Delhi ,Delhi,India,6340,6385
+21-10-2024,Rapeseed/Mustard,Condition,Kota,Rajasthan,India,6440,6485
+21-10-2024,Rapeseed/Mustard,Condition,Agra ,Uttar Pradesh,India,6890,6940
+21-10-2024,Rapeseed/Mustard,Loose,Neewai,Rajasthan,India,5990,6040
+21-10-2024,Rapeseed/Mustard,Condition,Hapur,Uttar Pradesh,India,6290,6335
+21-10-2024,Groundnut,Shell,Rajkot,Gujarat,India,5065,6010
+21-10-2024,Groundnut,Shell,Bikaner,Rajasthan,India,5500,6500
+21-10-2024,Groundnut,Bold,Bikaner,Rajasthan,India,8700,8800
 22-10-2024,Soybean,Plant,Indore,Madhya Pradesh,India,4500,4650
 22-10-2024,Soybean,Mandi,Indore,Madhya Pradesh,India,4350,4500
 22-10-2024,Soybean,Plant,Nagpur,Maharashtra,India,4500,4600
