@@ -329,8 +329,8 @@ Reporting Date,Commodity,Type,Centre,State,Country,Low_Rs/Qtl,High_Rs/Qtl
 09-11-2024,Soybean,Mandi,Bundi,Rajasthan,India,4100,4500
 09-11-2024,Soybean,Plant,Baran,Rajasthan,India,4450,4500
 09-11-2024,Soybean,Mandi,Baran,Rajasthan,India,4300,4400
-09-11-2024,Soybean,Plant,Bhawani / Jhalawar,Rajasthan,India,4450,4500
-09-11-2024,Soybean,Mandi,Bhawani / Jhalawar,Rajasthan,India,4400,4450
+09-11-2024,Soybean,Plant,Bhawani/Jhalawar,Rajasthan,India,4450,4500
+09-11-2024,Soybean,Mandi,Bhawani/Jhalawar,Rajasthan,India,4400,4450
 09-11-2024,Rapeseed,Condition,Jaipur,Rajasthan,India,6825,6850
 09-11-2024,Rapeseed,Condition,Alwar,Rajasthan,India,6500,6550
 09-11-2024,Rapeseed,Non-Condition,Sri Ganganagar,Rajasthan,India,5800,6200
@@ -532,8 +532,8 @@ Reporting Date,Commodity,Type,Centre,State,Country,Low_Rs/Qtl,High_Rs/Qtl
 20-11-2024,Soybean,Mandi,Bundi,Rajasthan,India,4000,4400
 20-11-2024,Soybean,Plant,Baran,Rajasthan,India,4450,4500
 20-11-2024,Soybean,Mandi,Baran,Rajasthan,India,4300,4450
-20-11-2024,Soybean,Plant,Bhawani / Jhalawar,Rajasthan,India,4400,4450
-20-11-2024,Soybean,Mandi,Bhawani / Jhalawar,Rajasthan,India,4250,4300
+20-11-2024,Soybean,Plant,Bhawani/Jhalawar,Rajasthan,India,4400,4450
+20-11-2024,Soybean,Mandi,Bhawani/Jhalawar,Rajasthan,India,4250,4300
 20-11-2024,Rapeseed/Mustard,Condition,Jaipur,Rajasthan,India,6700,6725
 20-11-2024,Rapeseed/Mustard,Condition,Alwar,Rajasthan,India,6250,6300
 20-11-2024,Rapeseed/Mustard,Non-Condition,Sri Ganganagar,Rajasthan,India,5800,6000
@@ -558,8 +558,8 @@ Reporting Date,Commodity,Type,Centre,State,Country,Low_Rs/Qtl,High_Rs/Qtl
 21-11-2024,Soybean,Mandi,Bundi,Rajasthan,India,4000,4400
 21-11-2024,Soybean,Plant,Baran,Rajasthan,India,4450,4500
 21-11-2024,Soybean,Mandi,Baran,Rajasthan,India,4300,4400
-21-11-2024,Soybean,Plant,Bhawani / Jhalawar,Rajasthan,India,4350,4400
-21-11-2024,Soybean,Mandi,Bhawani / Jhalawar,Rajasthan,India,4200,4250
+21-11-2024,Soybean,Plant,Bhawani/Jhalawar,Rajasthan,India,4350,4400
+21-11-2024,Soybean,Mandi,Bhawani/Jhalawar,Rajasthan,India,4200,4250
 21-11-2024,Rapeseed/Mustard,Condition,Jaipur,Rajasthan,India,6650,6675
 21-11-2024,Rapeseed/Mustard,Condition,Alwar,Rajasthan,India,6200,6250
 21-11-2024,Rapeseed/Mustard,Non-Condition,Sri Ganganagar,Rajasthan,India,5800,6000
